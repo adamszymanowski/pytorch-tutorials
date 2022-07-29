@@ -10,3 +10,5 @@ Me doing [PyTorch Tutorials](https://pytorch.org/tutorials/index.html)
 - MathJax
   * [reference 1](https://www.bearnok.com/grva/en/knowledge/software/mathjax)
   * [dots](https://www.math-linux.com/latex-26/faq/latex-faq/article/how-to-get-dots-in-latex-ldots-cdots-vdots-and-ddots)
+- [w.r.t](https://www.mathsisfun.com/definitions/wrt.html)
+  * with respect to
